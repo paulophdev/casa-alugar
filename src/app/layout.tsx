@@ -1,8 +1,8 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'A procura de uma casa para alugar',
-  description: 'A procura de uma casa para alugar',
+  title: 'Caminho casa / trabalho',
+  description: 'Caminho casa / trabalho',
 }
 
 export default function RootLayout({
